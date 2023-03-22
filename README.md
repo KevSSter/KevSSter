@@ -1,25 +1,81 @@
-<h1>Hi, I'm Kevin :)</h1>
+<!-- Banner 20232A -->
+![Banner-dark-mode](https://user-images.githubusercontent.com/90595158/224519176-25966d34-9593-4f48-8216-9d9ba80eb586.png#gh-dark-mode-only)
+![Banner-light-mode-test](https://user-images.githubusercontent.com/90595158/221481850-84df7f4c-2193-445d-9aba-d4eee0be7f5c.png#gh-light-mode-only)
 
 
-<!--- Web illustrations by StorySet ( https://storyset.com/web )--->
 <p align="center">
-  I'm a computer science student focused on being a future software engenieer
+I'm a computer science student who loves writing code 
 </p>
-<br>
-<!-- Web illustrations by Storyset ( https://storyset.com/web )--->
-<img align="right" src="https://user-images.githubusercontent.com/96004910/226755886-45233dfe-2c54-422d-9939-ed838c87ae18.svg#dark-mode-only" width="360px"/>
-<br>
 
-- 🔭 Currently learning the fundamentals of **Web Development**
-- 🏎️ Currently learning **HTML**, **CSS** and **Javascript**
-- 🔥 Eager to learn about **Good practices in the software industry**
+##
 
 <br>
-<h2 align="center">🐱 Github Stats</h2>
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/KevSSter/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-<img src="https://raw.githubusercontent.com/KevSSter/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+
+
+<br>
+
+
+
+- 🔭 I’m currently studying **The Fundamentals of Web Development**.
+
+- 🌱 I’m currently learning **HTML**, **CSS** and **Javascript**.
+
+- 🤝 I’m looking for learning how to build **Accessible Websites**.
+
+- 📫 How to reach me: **kevinsosasterling@gmail.com**.
+
+
+
+<br>
+<br>
+
+## 🎯 Future Goals
+
+- 🌟 Have a good control of HTML, CSS and Javascript for a month
+- 🚩 Have completed at least 3 challenges in Frontend Mentor
+
+<br>
+
+<h2 align="center">📫 Connect with me</h2>
+
+<div align = "center">
+    
+[![Gmail: Kevin Sosa](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevinsosasterling@gmail.com)](mailto:kevinsosasterling@gmail.com)&nbsp;
   
 </div>
+
 <br>
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+![Stats Overview](https://raw.githubusercontent.com/KevSSter/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/KevSSter/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</div>
+<br>
+
+
+
+<div align = "center">
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<details open>
+<summary><b>🏄‍♂️ Frontend</b></summary>
+<br>
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+</details>
+
+<details open>
+<summary><b>🧰 Backend</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+</details>
