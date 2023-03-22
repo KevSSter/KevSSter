@@ -18,6 +18,7 @@
 - 🔭 Currently learning the fundamentals of **Web Development**
 - 🏎️ Currently learning **HTML**, **CSS** and **Javascript**
 - 🔥 Eager to learn about **Good practices in the software industry**
+#
 <br>
 <h2 align="center">🐱 Github Stats</h2>
 <div align="center">
