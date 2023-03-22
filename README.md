@@ -11,7 +11,7 @@ I'm a computer science student who loves writing code
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <!---<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>--->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96004910/227040035-41501314-0506-4f4d-86b6-3543362bec2f.gif"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96004910/227042501-1e3a6b49-a8b3-4e5a-9081-620fa2bd1ec2.gif"/>
 
 
 
@@ -78,4 +78,3 @@ I'm a computer science student who loves writing code
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 </details>
-
