@@ -18,3 +18,9 @@
 - 🔭 Currently learning the fundamentals of **Web Development**
 - 🏎️ Currently learning **HTML**, **CSS** and **Javascript**
 - 🔥 Eager to learn about **Good practices in the software industry**
+
+<h2 align="center">🐱 Github Stats</h2>
+<div align="center">
+![Stats Overview](https://raw.githubusercontent.com/KevSSter/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/KevSSter/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+</div>
