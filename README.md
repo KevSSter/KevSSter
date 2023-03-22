@@ -21,7 +21,7 @@ I'm a computer science student who loves writing code
 
 - 🌱 I’m currently learning **HTML**, **CSS** and **Javascript**.
 
-- 🤝 I’m looking for learning how to build **Accessible Websites**.
+- 🤝 I’m looking to learn how to build **Accessible Websites**.
 
 - 📫 How to reach me: **kevinsosasterling@gmail.com**.
 
